@@ -73,23 +73,19 @@ Silverlight Web Analyzer starts with its home page where users enter a specific 
     cd SilverlightWebAnalyzer
     ```
 
-3. **Install necessary packages:**
-
-   ```sh
-    npm install
-    ```
-
-4. **Navigate to the backend folder and start the server:** (*rows will be executed one by one*)
+3. **Navigate to the backend folder and start the server:** (*rows will be executed one by one*)
 
    ```sh
     cd backend
+    npm install
     node server.js
     ```
 
-5. **Open a new terminal, navigate to the frontend folder and start the client:** (*rows will be executed one by one*)
+4. **Open a new terminal, navigate to the frontend folder and start the client:** (*rows will be executed one by one*)
 
    ```sh
     cd frontend
+    npm install
     npm start
     ```
 
