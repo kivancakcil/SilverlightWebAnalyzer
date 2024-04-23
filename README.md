@@ -11,7 +11,6 @@
 <div align="center">
   <a href="">
   </a>
-<br/><br/>
 <h1 align="center">Website Technologies Analyzer</h1>
   <p align="center">
     Silverlight is a web application that analyzes a specific URL to show the technologies used and the number of techs it contains.
